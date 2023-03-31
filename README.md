@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krunal-Sakhiya
-- 👀 I’m interested in frontend developer
+- 👀 I’m interested in soft developer
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
